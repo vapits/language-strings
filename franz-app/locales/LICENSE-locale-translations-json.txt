@@ -1,0 +1,52 @@
+The MIT License (MIT)
+Copyright (c) 2016 meetfranz.com (Stefan Malzner & Jonathan Burke)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+For clarity, this license applies to the files listed below within the Franz app's locale directory:
+
+./locales/af_ZA.json
+./locales/ar_AR.json
+./locales/ca_ES.json
+./locales/cs_CZ.json
+./locales/da_DK.json
+./locales/de_DE.json
+./locales/de_WIEN.json
+./locales/en_GB.json
+./locales/es_ES.json
+./locales/fa_IR.json
+./locales/fi_FI.json
+./locales/fr_FR.json
+./locales/gl_ES.json
+./locales/he_IL.json
+./locales/hr_HR.json
+./locales/hu_HU.json
+./locales/id_ID.json
+./locales/it_IT.json
+./locales/ja_JP.json
+./locales/ko_KR.json
+./locales/lt_LT.json
+./locales/lv_LV.json
+./locales/ms_MY.json
+./locales/nl_NL.json
+./locales/nn_NO.json
+./locales/pl_PL.json
+./locales/pt_BR.json
+./locales/pt_PT.json
+./locales/ro_RO.json
+./locales/ru_RU.json
+./locales/sq_AL.json
+./locales/sr_RS_CY.json
+./locales/sr_RS.json
+./locales/sv_SE.json
+./locales/tr_TR.json
+./locales/uk_UA.json
+./locales/vi_VN.json
+./locales/zh_CN.json
+./locales/zh_TW.json

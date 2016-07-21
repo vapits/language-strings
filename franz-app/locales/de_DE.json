@@ -56,7 +56,6 @@
 	"55-window": "Fenster",
 	"56-minimize": "Minimieren",
 	"57-close": "Schließen",
-	"58-hide-show-on-taskbar": "Verstecken/Zeigen in der Taskleiste",
 	"59-help": "Hilfe",
 	"60-learn-more": "Mehr erfahren",
 	"61-changelog": "Changelog",
@@ -82,5 +81,9 @@
     "1606221230-cache": "Cache",
     "1606221230-clear-the-franz-cache": "Franz cache leeren",
     "1606221230-show-unread-message-badge-for-all-new-messages": "Benachrichtigungen für alle ungelesenen Nachrichten anzeigen",
-    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Du wirst über alle neuen Nachrichten informiert, nicht nur bei @username, @channel, @here, ..."
+    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Du wirst über alle neuen Nachrichten informiert, nicht nur bei @username, @channel, @here, ...",
+    "1607011340-reload-service": "Dienst aktualisieren",
+    "1607041400-app": "App",
+    "1607041500-general": "Allgemein",
+    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Franz im Hintergrund laufen lassen wenn das Fenster geschlossen ist"
 }

@@ -56,7 +56,6 @@
 	"55-window": "ウィンドウ",
 	"56-minimize": "最小化",
 	"57-close": "閉じる",
-	"58-hide-show-on-taskbar": "タスクバーに表示/非表示",
 	"59-help": "ヘルプ",
 	"60-learn-more": "もっと知る",
 	"61-changelog": "更新履歴",
@@ -82,5 +81,9 @@
     "1606221230-cache": "Cache",
     "1606221230-clear-the-franz-cache": "Clear the Franz cache",
     "1606221230-show-unread-message-badge-for-all-new-messages": "Show unread message badge for all new messages",
-    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "You will be notified about all new messages in a channel, not just @username, @channel, @here, ..."
+    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "You will be notified about all new messages in a channel, not just @username, @channel, @here, ...",
+    "1607011340-reload-service": "Reload Service",
+    "1607041400-app": "App",
+    "1607041500-general": "General",
+    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Leave Franz running in the notification area when window is closed"
 }

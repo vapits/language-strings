@@ -56,7 +56,6 @@
     "55-window": "Venster",
     "56-minimize": "Minimaliseren",
     "57-close": "Sluit",
-    "58-hide-show-on-taskbar": "Verberg\/toon in Taakbalk",
     "59-help": "Help",
     "60-learn-more": "Meer informatie",
     "61-changelog": "Wijzigingen",
@@ -82,5 +81,9 @@
     "1606221230-cache": "Cache",
     "1606221230-clear-the-franz-cache": "Schoon de Franz cache op",
     "1606221230-show-unread-message-badge-for-all-new-messages": "Toon ongelezen berichten badge voor alle nieuwe berichten",
-    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Je zult een notificatie krijgen voor alle nieuwe berichten in een kanaal, niet alleen @username, @channel, @here, ..."
+    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Je zult een notificatie krijgen voor alle nieuwe berichten in een kanaal, niet alleen @username, @channel, @here, ...",
+    "1607011340-reload-service": "Reload Service",
+    "1607041400-app": "App",
+    "1607041500-general": "General",
+    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Leave Franz running in the notification area when window is closed"
 }

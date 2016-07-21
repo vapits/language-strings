@@ -56,7 +56,6 @@
     "55-window": "Fenster",
     "56-minimize": "Moch mi kla",
     "57-close": "Moch mi zua",
-    "58-hide-show-on-taskbar": "In der Taskleisten anzagn\/ausblendn",
     "59-help": "Hilfe",
     "60-learn-more": "Wennst mehr wissen willst",
     "61-changelog": "Wos si don hat",
@@ -82,5 +81,9 @@
     "1606221230-cache": "Cache",
     "1606221230-clear-the-franz-cache": "Lösch den Franz cache",
     "1606221230-show-unread-message-badge-for-all-new-messages": "Zag ma den ansa für alle Nachrichten",
-    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Dir wird der ansa für alle Nachrichten zagt, net nur für @username, @channel, @here, ..."
+    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Dir wird der ansa für alle Nachrichten zagt, net nur für @username, @channel, @here, ...",
+    "1607011340-reload-service": "Dienst nei lodn",
+    "1607041400-app": "Äpp",
+    "1607041500-general": "Allgemein",
+    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Los in Franz renna, a wenn des Fenster gschlossn is"
 }

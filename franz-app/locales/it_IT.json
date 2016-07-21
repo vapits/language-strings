@@ -14,7 +14,7 @@
     "13-add-service": "Aggiungi %s",
     "14-save": "Salva",
     "15-franz-is-better-together": "Franz è migliore insieme!",
-    "16-tell-your-friends-and-colleagues-how-awesome-franz-is-and-help-us-to-spread-the-word": "Comunica ai tuoi amici e colleghi quanto sia meraviglioso Franz e aiutaci a spargere la voce",
+    "16-tell-your-friends-and-colleagues-how-awesome-franz-is-and-help-us-to-spread-the-word": "Dì ai tuoi amici e colleghi quanto sia meraviglioso Franz e aiutaci a spargere la voce",
     "17-send-as-email": "Invia per email",
     "18-share-on-facebook": "Condividi su Facebook",
     "19-share-on-twitter": "Condividi su Twitter",
@@ -56,7 +56,6 @@
     "55-window": "Finestra",
     "56-minimize": "Riduci",
     "57-close": "Chiudi",
-    "58-hide-show-on-taskbar": "Mostra\/Nascondi nella taskbar",
     "59-help": "Aiuto",
     "60-learn-more": "Ulteriori informazioni su Franz",
     "61-changelog": "Storico aggiornamenti",
@@ -69,7 +68,7 @@
     "68-remember-to-enable-desktop-notifications-in-your-groupme-settings": "Ricordati di abilitare le notifiche desktop nelle impostazioni di GroupMe",
     "69-acknowledgements": "Riconoscimenti",
     "70-file": "File",
-    "71-only-direct-logins-are-currently-supported": "Please note that 3rd-party login methods are not currently supported.",
+    "71-only-direct-logins-are-currently-supported": "Nota: metodi di login di terze parti non sono supportati.",
     "1606221210-account": "Account",
     "1606221210-email": "Email",
     "1606221210-newsletter": "Newsletter",
@@ -82,5 +81,9 @@
     "1606221230-cache": "Cache",
     "1606221230-clear-the-franz-cache": "Pulisci la cache di Franz",
     "1606221230-show-unread-message-badge-for-all-new-messages": "Mostra il badge dei messaggi non letti per tutti i nuovi messaggi",
-    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Sarai notificato per tutti i nuovi messaggi in un canale, non solo @username, @channel, @here, ..."
+    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "Sarai notificato per tutti i nuovi messaggi in un canale, non solo @username, @channel, @here, ...",
+    "1607011340-reload-service": "Reload Service",
+    "1607041400-app": "App",
+    "1607041500-general": "General",
+    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Leave Franz running in the notification area when window is closed"
 }

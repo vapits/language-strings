@@ -56,7 +56,6 @@
     "55-window": "窗口",
     "56-minimize": "最小化",
     "57-close": "关闭",
-    "58-hide-show-on-taskbar": "隐藏\/显示任务栏",
     "59-help": "帮助",
     "60-learn-more": "了解更多",
     "61-changelog": "更新日志",
@@ -82,5 +81,9 @@
     "1606221230-cache": "Cache",
     "1606221230-clear-the-franz-cache": "Clear the Franz cache",
     "1606221230-show-unread-message-badge-for-all-new-messages": "Show unread message badge for all new messages",
-    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "You will be notified about all new messages in a channel, not just @username, @channel, @here, ..."
+    "1606221230-you-will-be-notified-about-all-new-messages-in-a-channel-not-just-username-channel-here": "You will be notified about all new messages in a channel, not just @username, @channel, @here, ...",
+    "1607011340-reload-service": "Reload Service",
+    "1607041400-app": "App",
+    "1607041500-general": "General",
+    "1607041400-leave-franz-running-in-the-notification-area-when-window-is-closed": "Leave Franz running in the notification area when window is closed"
 }
